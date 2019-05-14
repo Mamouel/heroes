@@ -2,12 +2,14 @@
 
 ## Merci de te joindre à notre aventure. Ta mission aujourd'hui va être 
 
-### 1) Durée du test: 1h15
+### 1) contexte
+- Durée du test: 1h15
+- Tu peux utiliser toutes les ressources a ta dispo
 
 ### 2) Pour valider ton test je te demanderai:
 - De prévenir la personne qui te suit au moment ou tu débutes le test.
-- Faire un commit apres 1h15min ce qui mettra un terme au test. Attention ce qui sera fait ensuite ne sera pas pris en compte
-- Push sur ton repo en public/privée si tu n'a pas fork notre repo
+- Tu aura a partir de la 1h15
+- les commit au dela de ce temps seront rollback
 
 ### 3) Explication des attendus
 
@@ -50,3 +52,4 @@ Bonus:
  -  mettre en place tailwind css
  -  mettre en place un générateur de docs
  -  mettre en place storybook
+ - ... tous autre bonus qui apporte un plus au projet seront aussi valides

@@ -3,7 +3,7 @@
 ## Merci de te joindre à notre aventure. Ta mission aujourd'hui va être 
 
 ### 1) contexte
-- Durée du test: 1h15
+- Durée du test: 1h15/20
 - Tu peux utiliser toutes les ressources a ta dispo
 
 ### 2) Pour valider ton test je te demanderai:
@@ -26,7 +26,7 @@ J'attends de toi:
 
 - tu aura trois routes:
   - '/dashboard'
-  - '/detail/:id'
+  - '/heroes/:id'
   - '/heroes'
 
 - dashboard devra:
